@@ -1,1 +1,2 @@
-# wallet-demo
+# React Native crypto wallet demo
+
